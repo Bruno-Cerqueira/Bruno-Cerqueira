@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
   * [Linkedin](https://www.linkedin.com/in/bruno-marenco-cerqueira-3b9236ba/)
   * [Discord](https://discord.com/) user: BrunoMCerqueira#6862
-  
-  - ⚡ Fun fact: I am a lawyer... yes, I know...
+
+- ⚡ Fun fact: I am a lawyer... yes, I know...
