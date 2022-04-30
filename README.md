@@ -20,13 +20,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on discord communities and with some friends projects.
 
-- 💬 Ask me about...
-  ```
-    const code = [65, 78, 89, 84, 72, 73, 78, 71]
-    for(a of code) {
-      console.log(String.fromCharCode(a))
-    }
-  ```
+- 💬 Ask me about anything
 
 - 📫 How to reach me:
 
