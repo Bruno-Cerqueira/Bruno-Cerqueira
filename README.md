@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- 😄 I’m currently working on an Angular Project that uses graphql!
+- 😄 I’m currently working on a Kotlin spring project using other tecnologies like aws, jenkins!
 
 - 🌱 I’m currently learning graphql and angular in depth and looking for have some time to start playing with Flutter.
 
