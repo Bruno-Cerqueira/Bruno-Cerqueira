@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Full Stack Developer from Brazil, in love with Angular and Ruby on Rails. Learning kotlin and java!
+I am a Full Stack Developer from Brazil, in love with Angular and Ruby on Rails. Learning about monitoring, cloud and ci! Looking for go, rust and htmx :)
 <!--
 **Bruno-Cerqueira/Bruno-Cerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   * [Linkedin](https://www.linkedin.com/in/bruno-marenco-cerqueira-3b9236ba/)
   * [Discord](https://discord.com/) user: BrunoMCerqueira#6862
 
-- ⚡ Hobby: Playing with my daughter!
+- ⚡ Hobby: Playing with my daughters!
